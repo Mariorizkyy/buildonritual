@@ -1,0 +1,6 @@
+{
+  "name": "BuildonRitual",
+  "description": "The premier decentralized sovereign AI developer platform & interactive chatbot playground, built with factual Ritual-powered security and Infernet coprocessor parameters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
