@@ -93,7 +93,7 @@ export default function App() {
             <img
               src="/logo.png"
               alt="logo"
-              className="w-8 h-8 rounded-full object-cover"
+              className="w-8 h-8 rounded-full object-block"
             />
             <div className="flex flex-col">
              e <span className="font-display font-bold tracking-[0.1em] text-charcoal text-sm leading-none">BUILDONRITUAL</span>
