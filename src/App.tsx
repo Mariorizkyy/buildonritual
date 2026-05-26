@@ -90,9 +90,11 @@ export default function App() {
           
           {/* Logo Brand Title with Custom Spacing */}
           <a href="#" className="flex items-center gap-2.5 group">
-            <div className="w-8 h-8 rounded-full bg-emerald-deep flex items-center justify-center text-ivory font-semibold text-sm border border-muted-gold/30 shadow-inner group-hover:rotate-12 transition-transform">
-              B
-            </div>
+            <img
+              src="/logo.png"
+              alt="logo"
+              className="w-8 h-8 rounded-full object-cover"
+            >
             <div className="flex flex-col">
               <span className="font-display font-bold tracking-[0.1em] text-charcoal text-sm leading-none">BUILDONRITUAL</span>
               <span className="text-[8px] font-mono tracking-widest text-[#d4af37] uppercase leading-relaxed font-semibold">SOVEREIGN AI REVOLUTION</span>
