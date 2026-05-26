@@ -93,10 +93,10 @@ export default function App() {
             <img
               src="/logo.png"
               alt="logo"
-              className="w-8 h-8 rounded-full object-block"
+              className="w-8 h-8 rounded-full object-cover block"
             />
             <div className="flex flex-col">
-             e <span className="font-display font-bold tracking-[0.1em] text-charcoal text-sm leading-none">BUILDONRITUAL</span>
+             <span className="font-display font-bold tracking-[0.1em] text-charcoal text-sm leading-none">BUILDONRITUAL</span>
               <span className="text-[8px] font-mono tracking-widest text-[#d4af37] uppercase leading-relaxed font-semibold">SOVEREIGN AI REVOLUTION</span>
             </div>
           </a>
